@@ -1,2 +1,0 @@
-# sujith
-flutter project
